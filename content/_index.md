@@ -75,8 +75,8 @@ sections:
     id: blog
     content:
       title: Blog
-      subtitle: "You will find some of my learnings and experiences here."
-      text: ""
+      subtitle: ""
+      text: "You will find some of my learnings and experiences here."
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
