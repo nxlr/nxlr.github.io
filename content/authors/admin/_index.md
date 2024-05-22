@@ -19,8 +19,8 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# # Role/position/tagline
-# role: Chief Scientist
+# Role/position/tagline
+role: Data Scientist (Economics)
 
 # # Organizations/Affiliations to display in Biography blox
 # organizations:
@@ -48,6 +48,7 @@ interests:
   - Public Finance
   - Political Economy
   - Algorithmic Trading
+  - Data Visulisation
 
 # education:
 #   - area: PhD Artificial Intelligence
@@ -116,28 +117,28 @@ skills:
         icon: code-bracket
       - name: Data Science
         description: ""
-        percent: 100
+        percent: 90
         icon: chart-bar
-      - name: SQL
-        description: ""
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: "#eeac02"
-    color_border: "#f0bf23"
-    items:
-      - name: Hiking
+      - name: Stata
         description: ""
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ""
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ""
-        percent: 80
-        icon: camera
+        icon: circle-stack
+  # - name: Hobbies
+  #   color: "#eeac02"
+  #   color_border: "#f0bf23"
+  #   items:
+  #     - name: Hiking
+  #       description: ""
+  #       percent: 60
+  #       icon: person-simple-walk
+  #     - name: Cats
+  #       description: ""
+  #       percent: 100
+  #       icon: cat
+  #     - name: Photography
+  #       description: ""
+  #       percent: 80
+  #       icon: camera
 # languages:
 #   - name: English
 #     percent: 100
